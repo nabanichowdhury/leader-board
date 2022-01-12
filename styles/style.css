@@ -50,7 +50,7 @@ hr{
 }
 
 /* -----------
-Top blogs
+   Top blogs
 -------------- */
 .blogs{
     display: grid;
@@ -82,7 +82,9 @@ height: 117px;
 
 
 
-/* courses style  */
+/* --------------------------
+      Courses Style 
+--------------------------- */
 .courses{
     display: grid;
     grid-template-columns: repeat(3,1fr);
